@@ -1,0 +1,17 @@
+git init --> it will initialize the .git file that will track everything
+
+it will add the files into the staging area
+git add .
+git add index.html
+
+it will pass the message and it will create unique id for maintaining version
+git commit -m 'payment module'
+
+git branch -m main --> it will change the branch name
+
+git remove --> it will provide the repo location
+
+git push --> it will push the code from stagging to repo
+
+
+ 

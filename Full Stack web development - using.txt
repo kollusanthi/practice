@@ -1,0 +1,88 @@
+Full Stack web development -> using frontend - backend - database
+
+web development -- 
+website - it collection of webpages which are connected together
+webpage - it is a document that read by the browser and display content
+
+frontend -- visual aspects, UI, UX, and responsiveness
+backend -- python - any framework- flask, Django, fast API, validations, connectivity b-database, API building, CURD(create, update, read, delete) operations, authentication, authorization 
+
+frontend technologies
+static webpage - Content is fixed
+1. HTML -- Structure , git
+2. CSS -- Stylings, bootstrap -- framework
+Dynamic webpage - where user can interact
+3. JavaScript -- Functionality
+4. React -- JavaScript framework
+
+
+HTML - Hypertext markup language
+hypertext -- a text referred to another text
+markup -- a set of rules that defines how content should be displayed on the browser
+it is a standard markup language that is used to create structure for a webpages
+
+html contains series of elements that are represented by tags
+
+tag
+<> open tag
+</> close tag
+
+elements
+open tag + content + closing tag
+<open tag>content</close tag>
+
+heading tags
+<h1>Heading</h1> -- size- 32px largest heading
+<h2>content</h2>
+.
+.
+.
+<h6>smallest heading</h6>
+
+extensions
+1. live server
+2. live preview
+3. prettier
+4. ES7+ React
+
+Basic structure of html
+<!DOCTYPE html>  --> declaration it tells the type and version of document
+<html> --> html is a root element of the document
+    <head> --> it contains title, metadata and third party links
+	<title>first webpage</title>
+    </head>
+</html>
+types of tags
+1.container or pair tags<h1></h1>
+2.void tags or self closing tags
+<br> - it is used to insert a line break
+<hr> - it is used to insert a horizontal ruler
+3. To add images in two ways <img>
+a. absolute way - complete URL
+src -- resource
+<img src="URL" alt="">
+attributes--> it is used to provide extra information about an elements and controls the element
+
+disadvantages
+.Dependency
+.copy right
+.longer URLs
+
+b. relative way - project local files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
